@@ -1,0 +1,39 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 8,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://teamzeusswap.github.io/Test.github.io/#/swap/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+  
+    {
+      "name": "ZeusToken",
+      "symbol": "Zeus",
+      "address": "0x78358353B310FACDA32670998D9ecE2e34393012",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://teamzeusswap.github.io/Test.github.io/#/swap/images/coins/0x04c747b40be4d535fc83d09939fb0f626f32800b.png"
+    },
+    {
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://teamzeusswap.github.io/Test.github.io/#/swap/images/coins/0x04c747b40be4d535fc83d09939fb0f626f32800b.png"
+    }
+  ]
+}
